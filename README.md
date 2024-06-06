@@ -19,7 +19,7 @@
 
 <b>Technologies and tools:</b><br/>
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg'></img>
+<img width='40' src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg'></img>
 
 <p align='center'> Send me an e-mail: <a href='mailto:h.krajnik.contact@gmail.com'>h.krajnik.contact@gmail.com</a></p>
 
