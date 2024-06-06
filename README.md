@@ -24,7 +24,7 @@
 <img width='40' src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'></img>
 <img width='40' src='https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg'></img>
 <img width='50' src='https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg'></img>
-<img width='40' src='https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg'></img>
+<img width='50' src='https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg'></img>
 <img width='30' src='https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg'></img>
 
 <p align='center'> Send me an e-mail: <a href='mailto:h.krajnik.contact@gmail.com'>h.krajnik.contact@gmail.com</a></p>
