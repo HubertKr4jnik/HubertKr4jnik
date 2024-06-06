@@ -19,6 +19,7 @@
 
 <b>Technologies and tools:</b><br/>
 
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw3318kmUIr1CwYB6xOzDxMJ&ust=1717782833729000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiOkO_Fx4YDFQAAAAAdAAAAABAE'></img>
 
 <p align='center'> Send me an e-mail: <a href='mailto:h.krajnik.contact@gmail.com'>h.krajnik.contact@gmail.com</a></p>
 
